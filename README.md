@@ -1,7 +1,7 @@
 📁 Pulse Oximeter Hardware Project – PCB Design in Altium
 
 ## Overview
-This project involves the schematic capture, footprint creation, and PCB layout of a pulse oximeter circuit using Altium Designer. The board integrates the MAX30102 sensor module with supporting voltage regulation and communication interfaces, intended for use with the Nucleo-F303K8 development board.
+This project involves the schematic capture, footprint creation, and PCB layout of a pulse oximeter circuit using Altium Designer under supervision of Professor Amit Nimunkar. The board integrates the MAX30102 sensor module with supporting voltage regulation and communication interfaces, intended for use with the Nucleo-F303K8 development board.
 
 ## Demo
 
